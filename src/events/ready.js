@@ -11,5 +11,4 @@ client.on('ready', () => {
 			{ type: 'WATCHING' }
 		);
 	}, 180000);
-
 });
