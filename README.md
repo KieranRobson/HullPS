@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/32241933/176943810-d3016868-d91b-49cc-9461-ae01b7ffa44d.png" width="150" height="150">
-
 ## HullPS Discord Bot
 
 This bot is a multipurpose discord bot for The Hull Physics Society Discord server.
 
-<img src="https://img.shields.io/github/workflow/status/hullcss/hullcss-discord-bot/Publish%20Docker%20image?style=for-the-badge">
 <img src="https://img.shields.io/badge/Discord.JS-13.10.2-blue?style=for-the-badge&logo=DISCORD" />
 <img src="https://img.shields.io/badge/Node%20Version-16.16.0-brightgreen?style=for-the-badge&logo=Node.js">
 <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge">
