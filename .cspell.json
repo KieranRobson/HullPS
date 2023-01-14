@@ -6,7 +6,10 @@
 		".yarn/**",
 		"dist/**",
 		"node_modules/**",
-		"CHANGELOG.md"
+		"CHANGELOG.md",
+		".dockerignore",
+		".gitignore",
+		"package.json"
 	],
 	"dictionaries": [
 		"bash",
