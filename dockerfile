@@ -1,4 +1,4 @@
-FROM node:19.6.0
+FROM node:19.6.1
 RUN mkdir -p /usr/hullps/src
 WORKDIR /usr/hullps/src
 COPY package.json /usr/hullps/src
